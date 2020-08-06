@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidScreenCaster.iml" filepath="$PROJECT_DIR$/AndroidScreenCaster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidScreenCaster-master.iml" filepath="$PROJECT_DIR$/AndroidScreenCaster-master.iml" group="AndroidScreenCaster-master" />
+      <module fileurl="file://$PROJECT_DIR$/app/AndroidScreenCaster-master-app.iml" filepath="$PROJECT_DIR$/app/AndroidScreenCaster-master-app.iml" group="AndroidScreenCaster-master/app" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
